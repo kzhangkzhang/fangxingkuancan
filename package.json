@@ -1,0 +1,12 @@
+{
+  "name": "fangxingkuancan",
+  "version": "1.0.0",
+  "description": "learning HTML CSS",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Kevin Zhang",
+  "license": "ISC",
+  "home": "https://kzhangkzhang.github.io/fangxingkuancan"
+}
